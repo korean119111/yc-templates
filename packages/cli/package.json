@@ -2,17 +2,8 @@
   "name": "@yc/cli",
   "version": "0.1.0",
   "type": "module",
-  "bin": {
-    "yc": "bin/yc.mjs"
-  },
+  "bin": { "yc": "bin/yc.mjs" },
+  "files": ["bin", "templates", "README.md", "LICENSE"],
   "license": "MIT",
-  "files": ["bin", "templates"],          
-  "scripts": {
-    "prepack": "rimraf templates && cpy \"../templates/**\" \"templates\" --parents"
-  },
-  "devDependencies": {
-    "cpy-cli": "^5.0.0",
-    "rimraf": "^5.0.0"
-  },
   "engines": { "node": ">=18" }
 }
