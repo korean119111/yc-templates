@@ -5,5 +5,37 @@
   "bin": { "yc": "bin/yc.mjs" },
   "files": ["bin", "templates", "README.md", "LICENSE"],
   "license": "MIT",
-  "engines": { "node": ">=18" }
+  "engines": { "node": ">=18" },
+  "keywords": [
+  "react",
+  "vite",
+  "typescript",
+  "tsx",
+  "tailwindcss",
+  "shadcn",
+  "shadcn-ui",
+  "lucide-react",
+  "framer-motion",
+  "landing",
+  "landing-page",
+  "app-landing",
+  "mobile-app",
+  "marketing-site",
+  "template",
+  "templates",
+  "starter",
+  "boilerplate",
+  "blocks",
+  "components",
+  "hero",
+  "features",
+  "testimonials",
+  "contact-form",
+  "navbar",
+  "footer",
+  "cli",
+  "scaffold",
+  "generator"
+]
+
 }
