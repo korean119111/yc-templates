@@ -3,6 +3,13 @@
 [npm package](https://www.npmjs.com/package/@youssefch2003/yc-cli)
 
 
+yc-cli is a lightweight scaffolder for modern React + Vite projects. Install production-ready landing pages in seconds—built with Tailwind CSS and shadcn/ui. Includes two templates:
+
+landing-modern for brands/services (hero, features, testimonials, contact).
+
+landipageforapp for mobile apps (App Store/Play badges, animated screenshots, FAQ).
+Works with TypeScript, Lucide icons, and optional Framer Motion.
+
 Drop-in React + Tailwind + shadcn/ui landing page templates.
 
 ## Quick Start
