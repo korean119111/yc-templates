@@ -1,0 +1,15 @@
+{
+  "name": "landing-modern",
+  "version": "0.1.0",
+  "entry": "src/pages/LandingModern.tsx",
+  "filesRoot": "landing-modern/files",
+  "assets": ["public/hero.png","public/ser.png","public/logo.svg"],
+  "peerSetup": {
+    "tailwind": true,
+    "shadcn": [
+      "button","badge","card","accordion","separator","avatar",
+      "sheet","input","textarea","label","checkbox","form"
+    ],
+    "npmDeps": ["lucide-react","sonner","react-hook-form","zod"]
+  }
+}

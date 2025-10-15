@@ -1,0 +1,5 @@
+packages:
+  - packages/*
+
+overrides:
+  cli: link:../../AppData/Local/pnpm/global/5/node_modules/@yc/cli

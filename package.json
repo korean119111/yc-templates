@@ -1,0 +1,13 @@
+{
+  "name": "yc-templates",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "packageManager": "pnpm@10.18.3",
+  "dependencies": {
+    "cli": "link:../../AppData/Local/pnpm/global/5/node_modules/@yc/cli"
+  }
+}
