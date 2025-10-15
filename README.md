@@ -1,4 +1,6 @@
 # @youssefch2003/yc-cli
+
+[npm package](https://www.npmjs.com/package/@youssefch2003/yc-cli)
 Drop-in React + Tailwind + shadcn/ui landing page templates.
 
 ## Quick Start
