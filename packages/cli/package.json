@@ -1,6 +1,6 @@
 {
   "name": "@youssefch2003/yc-cli",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "type": "module",
   "bin": { "yc": "bin/yc.mjs" },
   "files": ["bin", "templates", "README.md", "LICENSE"],
