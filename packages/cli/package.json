@@ -1,5 +1,5 @@
 {
-  "name": "yc-cli",
+  "name": "@youssefch2003/yc-cli",
   "version": "0.1.0",
   "type": "module",
   "bin": { "yc": "bin/yc.mjs" },
